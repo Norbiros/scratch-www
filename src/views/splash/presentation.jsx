@@ -279,7 +279,9 @@ class SplashPresentation extends React.Component { // eslint-disable-line react/
                 </Box>
             );
         }
-
+        
+        
+        console.log(this.props.lovedByFollowing);
         if (this.props.lovedByFollowing && this.props.lovedByFollowing.length > 0) {
             rows.push(
                 <Box
