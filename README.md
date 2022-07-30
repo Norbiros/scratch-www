@@ -1,4 +1,4 @@
-# scratch-www
+# scratch-www by Norbiros (not reallhy aaa i need to test something and it doesnt work ught!)
 #### Standalone web client for Scratch
 
 [![Build Status](https://travis-ci.org/LLK/scratch-www.svg)](https://travis-ci.org/LLK/scratch-www)
