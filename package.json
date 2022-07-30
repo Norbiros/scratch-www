@@ -175,5 +175,8 @@
     "last 3 versions",
     "Safari >= 8",
     "iOS >= 8"
-  ]
+  ],
+  "engines": {
+    "node": "16.x"
+  }
 }
